@@ -1,2 +1,2 @@
 # Remnant
-A simple interpreter/compiler for educational purposes.
+A simple interpreter/compiler for educational purposes. WIP.
